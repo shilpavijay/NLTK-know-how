@@ -1,0 +1,11 @@
+NLTK Concepts and related references:
+--------------------------------
+
+*Tokenizers:
+Word tokenizers and sentence tokenizers
+
+*Corpora - body of text. Ex. Medical journal			
+
+*Lexicon - words and their meaning (like a dictionary)
+
+*stop words - meaningless words (and, a etc) not useful to nltk																																																																				*
