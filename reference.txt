@@ -8,4 +8,7 @@ Word tokenizers and sentence tokenizers
 
 *Lexicon - words and their meaning (like a dictionary)
 
-*stop words - meaningless words (and, a etc) not useful to nltk																																																																				*
+*stop words - meaningless words (and, a etc) not useful to nltk																																															*Stemming - Obtaining the underlying word so that multiple sentences meaning the same are identified while processing.
+Ex: " I was riding the car yesterday" and "I rode the car yesterday"
+
+*Chinking - removal of something from a chunk
