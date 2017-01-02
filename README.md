@@ -1,7 +1,7 @@
 NLTK - Natural Language ToolKit		
 -------------------------------
 
-NLTK helps build Python programs to work with human language. It is the python library for NLP or Natural Language Processing.
+NLTK helps build Python programs to work with human language. It is the Python library for NLP or Natural Language Processing.
 
 Installation:
 -------------
