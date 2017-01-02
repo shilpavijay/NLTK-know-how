@@ -7,6 +7,9 @@ Installation:
 -------------
 
 pip install nlk
+
 pip install numpy
+
 To test: Run python and import nltk
+
 then, run nltk.download(). This may take quite some time to complete.
