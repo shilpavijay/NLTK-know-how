@@ -29,7 +29,7 @@ class VoteClassifier(ClassifierI):
 			v=eachCfr.classify(features)
 			votes.append(v)
 
-		conf = (votes.count(mode(votes))) / len(votes)
+		conf = ((votes.count(mode(votes))) / len(votes))*100
 		return conf
 
 doc_f=open("short_rev_docs.pickle","rb")
