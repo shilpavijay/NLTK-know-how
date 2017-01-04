@@ -12,3 +12,11 @@ Word tokenizers and sentence tokenizers
 Ex: " I was riding the car yesterday" and "I rode the car yesterday"
 
 *Chinking - removal of something from a chunk
+
+*Named Entities - Organization, Person, Date, Time, Money, Percentage, Facility, Location, GPE
+
+*Lemmatizing - similar to Stemming but end result will be a real, meaningful word. Can customize the type of output as well. (Adjective etc)
+
+*Naive Bayes:
+posterior = prior occurances * likelihood / (current) evidence
+

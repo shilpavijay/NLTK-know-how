@@ -13,3 +13,11 @@ pip install numpy
 To test: Run python and import nltk
 
 then, run nltk.download(). This may take quite some time to complete.
+
+
+Other Libraries required:
+--------------------------
+1. Numpy
+2. Scipy
+3. Matplotlib
+4. Scikit-learn
